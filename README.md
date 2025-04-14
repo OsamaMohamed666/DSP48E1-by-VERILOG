@@ -6,7 +6,7 @@
 ## Block Diagram
 ![image](https://github.com/user-attachments/assets/5ea1b237-c23d-4c8f-91f3-c375e94fb362)
 
-## My Implementation   
+## My Implementation supervised by CND-LAB.
 Differences 
   1. I used the same architecture as DSP48E1 but without the pattern detection block. 
   2. I used only one high-synchronized reset for all flip-flops.  
